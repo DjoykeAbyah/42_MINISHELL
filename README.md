@@ -1,4 +1,4 @@
-```markdown
+
 # 🐚 Minishell
 
 In collaboration with @smclacke :heart:
