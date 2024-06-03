@@ -59,7 +59,6 @@ Minishell implements the following built-in commands:
 - `unset` with no options
 - `env` with no options or arguments
 - `exit` with no options
-```
 
 ## 🛠️ Installation
 
