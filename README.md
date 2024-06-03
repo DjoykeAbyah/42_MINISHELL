@@ -1,7 +1,7 @@
 
 # 🐚 Minishell
 
-In collaboration with '@smclacke' :heart:
+In collaboration with `@smclacke` :heart:
 Minishell is a simple shell program developed as part of the Codam curriculum. This project involves creating a functional shell that can execute commands, manage processes, handle environment variables, and implement various shell features. The project emphasizes understanding and implementing core concepts of operating systems, processes, and user interaction.
 
 ## 📑 Table of Contents
